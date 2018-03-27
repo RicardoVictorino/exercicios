@@ -1,6 +1,6 @@
 # exercicios
 Exercicios e atividades complementares
-
+!!!!ATENÇÃO 
 
 <h1>
   No exercicios de interface, houve algum problema no gradle, e por acaso acabei commitando a versão correta do exercicio dentro da pasta do anterior.
